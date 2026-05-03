@@ -14,7 +14,7 @@
 
 ## 🚀 Overview
 
-The **CCP FAQ Chatbot** is an AI-powered system designed to provide instant answers to frequently asked questions.  
+The **FAQ Chatbot** is an AI-powered system designed to provide instant answers to frequently asked questions.  
 It uses **Natural Language Processing (NLP)** and **Machine Learning** to understand user queries and return the most relevant responses.
 
 ---
@@ -111,11 +111,6 @@ Educational Assistants
 
 Help Desk Bots
 
-
-
-
-
-![App Screenshot](screenshot.png)
 
 
 ---
