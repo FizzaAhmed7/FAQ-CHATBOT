@@ -1,6 +1,6 @@
 <!-- 🌌 HERO SECTION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Fizza%20Ahmed%20Portfolio&fontAlign=50&fontAlignY=38&color=0:0f0c29,100:302b63,200:24243e&fontColor=ffffff&fontSize=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Fizza%20Ahmed&fontAlign=50&fontAlignY=38&color=0:0f0c29,100:302b63,200:24243e&fontColor=ffffff&fontSize=40"/>
 </p>
 
 <!-- ✨ TYPING ANIMATION -->
