@@ -113,13 +113,6 @@ Help Desk Bots
 
 
 
----
-
-📸 Screenshots
-
-> 💬 Add your app screenshots here for better presentation
-Example:
-
 
 
 ![App Screenshot](screenshot.png)
@@ -159,21 +152,3 @@ This project is developed for educational purposes.
 
 If you like this project, consider giving it a ⭐ on GitHub!
 
----
-
-### 🔥 What makes this better
-- Badges (looks professional instantly)
-- Table + clean layout
-- Mermaid diagram (very impressive for teachers)
-- Better formatting than typical student repos
-
----
-
-If you want next level (seriously):
-I can add:
-- 🔴 0  
-- 🟢 1  
-- 🎨 2  
-- 📊 3 (VERY important for marks)
-
-Just tell me 👍
